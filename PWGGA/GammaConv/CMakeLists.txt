@@ -45,7 +45,6 @@ set(SRCS
     AliAnaConvCorrPion.cxx
     AliAnaConvIsolation.cxx
     AliAnalysisTaskConversionQA.cxx
-    AliAnalysisTaskDirectPhotons.cxx
     AliAnalysisTaskdPhi.cxx
     AliAnalysisTaskEtaToPiPlPiMiGamma.cxx
     AliAnalysisTaskGammaCalo.cxx
