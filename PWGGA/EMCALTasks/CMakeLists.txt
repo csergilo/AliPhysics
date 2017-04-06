@@ -33,7 +33,6 @@ include_directories(${ROOT_INCLUDE_DIRS}
 
 # Sources in alphabetical order
 set(SRCS
-    AliAnalysisTaskDirectPhotonsCSL.cxx
     AliAnalysisTaskEMCALDirGamma.cxx
     AliAnalysisTaskEMCALClusterTurnOn.cxx
     AliAnalysisTaskEMCALIsolation.cxx

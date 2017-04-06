@@ -4,8 +4,6 @@
 #pragma link off all classes;
 #pragma link off all functions;
 
-#pragma link C++ class AliAnalysisTaskDirectPhotonsCSL+;
-#pragma link C++ class AliMyTParticleMotherAndDaughter+;
 #pragma link C++ class AliAnalysisTaskEMCALClusterTurnOn+;
 #pragma link C++ class AliAnalysisTaskEMCALIsoPhoton+;
 #pragma link C++ class AliAnalysisTaskEMCALPhoton+;
